@@ -1,6 +1,6 @@
-# GitHub-Repository-Popularity-Analysis
-Statistical Inference project analyzing GitHub repository popularity using Python and Machine Learning
 # GitHub Repository Popularity Analysis
+
+Statistical Inference project analyzing GitHub repository popularity using Python and Machine Learning.
 
 ## Project Overview
 
@@ -67,18 +67,61 @@ The dataset includes repository stars, forks, open issues, size, programming lan
 
 ## Results
 
-Random Forest performed best in both tasks.
+Random Forest achieved the best regression performance, while Decision Tree achieved the highest F1-score in classification.
 
-| Task | Best Model | Result |
-|---|---|---|
-| Regression | Random Forest | R² = 0.904 |
-| Classification | Random Forest | Accuracy = 90% |
+### Regression Results
+
+| Model | MAE | RMSE | R² |
+|---|---:|---:|---:|
+| Random Forest | 1200.458 | 4546.696 | 0.467 |
+| Decision Tree | 1284.352 | 4802.827 | 0.406 |
+| Lasso Regression | 1761.275 | 5195.648 | 0.305 |
+| Linear Regression | 1761.352 | 5195.701 | 0.305 |
+| Ridge Regression | 1762.286 | 5196.306 | 0.304 |
+
+### Classification Results
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+|---|---:|---:|---:|---:|
+| Decision Tree | 0.833 | 0.772 | 0.863 | 0.815 |
+| Random Forest | 0.825 | 0.788 | 0.804 | 0.796 |
+| Logistic Regression | 0.700 | 0.674 | 0.569 | 0.617 |
+| KNN | 0.667 | 0.608 | 0.608 | 0.608 |
+| SVM | 0.625 | 0.560 | 0.549 | 0.554 |
+
+**Best Regression Model:** Random Forest (R² = 0.467)
+
+**Best Classification Model:** Decision Tree (Accuracy = 83.3%, F1-Score = 0.815)
 
 The classification model predicts whether a repository has **High Popularity** or **Low Popularity** based on its characteristics.
 
+## Gradio User Interface
+
+A simple interactive Gradio interface is implemented in the notebook to predict GitHub repository popularity.
+
+Users can provide repository characteristics such as:
+
+- Programming language
+- Number of forks
+- Number of open issues
+- Repository size (KB)
+- Repository age (years)
+
+The interface uses the selected classification model to predict whether the repository has **High Popularity** or **Low Popularity**.
+
 ## Technologies Used
 
-Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, BeautifulSoup, Requests, and Gradio.
+- Python
+- Google Colab
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+- Scikit-learn
+- BeautifulSoup
+- Requests
+- Gradio
 
 ## How to Run
 
@@ -87,11 +130,14 @@ Python, Google Colab, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, B
 3. The notebook collects and processes GitHub repository data.
 4. View the statistical analyses, visualizations, and model evaluation results.
 5. Run the final Gradio section to launch the prediction interface.
+6. Enter repository details to predict High or Low popularity.
 
-**Note:** An internet connection is required for GitHub API data collection. The Gradio interface requires the trained classification model.
+**Note:** An internet connection is required for GitHub API data collection. The Gradio interface requires the trained classification model and preprocessing steps to be available in the notebook session.
 
 ## Conclusion
 
-The project demonstrates how Statistical Inference and Machine Learning can be used to analyze GitHub repository characteristics and predict popularity. Random Forest achieved the best performance among the tested regression and classification models.
+The project demonstrates how Statistical Inference and Machine Learning can be used to analyze GitHub repository characteristics and predict popularity.
+
+Random Forest achieved the best regression performance with an R² score of 0.467, while Decision Tree achieved the best classification F1-score of 0.815 and an accuracy of 83.3%.
 
 The results are based on the collected repository dataset and should not be generalized to all GitHub repositories.
