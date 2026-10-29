@@ -1,0 +1,601 @@
+name,language,stars,forks,open_issues,size,created_at,updated_at,license
+thisusercannotexist/auto-push,Python,17,5,3,127365,2025-04-22T14:41:09Z,2026-10-29T10:12:32Z,GNU Affero General Public License v3.0
+homeassistant-ai/ha-mcp,Python,5337,256,15,53646,2025-09-14T13:23:45Z,2026-10-29T10:12:50Z,MIT License
+nix-community/NUR,Python,1981,560,30,29995,2018-02-28T18:49:50Z,2026-10-29T10:12:50Z,MIT License
+EatonZhou/the-fourth-institute,Python,22,1,0,127996,2026-10-18T09:00:17Z,2026-10-29T10:12:49Z,Apache License 2.0
+pajeronda/xai_conversation,Python,32,2,2,1760,2025-10-18T11:11:10Z,2026-10-29T10:12:49Z,GNU General Public License v3.0
+sudosubin/agents.nix,Python,20,2,37,170755,2026-02-04T00:56:31Z,2026-10-29T10:12:48Z,MIT License
+variPEPS/variPEPS_Python,Python,21,2,2,4124,2024-03-18T11:12:08Z,2026-10-29T10:12:47Z,GNU General Public License v3.0
+LindseyB/dummy,Python,67,14,0,74806,2020-03-11T21:11:32Z,2026-10-29T10:12:46Z,
+REIJI007/Adblock-Rule-Collection,Python,122,10,0,163481,2024-08-05T19:29:38Z,2026-10-29T10:12:44Z,Other
+fmind/dot,Python,12,0,0,8138,2026-04-05T17:20:19Z,2026-10-29T10:12:38Z,MIT License
+GeiserX/CashPilot,Python,72,17,0,7181,2026-03-25T12:01:09Z,2026-10-29T10:12:33Z,GNU General Public License v3.0
+ansys/pyansys-geometry,Python,99,29,27,1085134,2022-08-30T06:45:39Z,2026-10-29T10:12:32Z,MIT License
+pisilinux/main,Python,76,71,55,1974772,2015-06-14T19:38:36Z,2026-10-29T10:12:30Z,
+gl-inet/docs4.x,Python,135,36,0,14668,2022-05-03T01:56:58Z,2026-10-29T10:12:27Z,
+jimbrig/jimbrig,Python,10,4,3,110893,2020-08-07T21:48:06Z,2026-10-29T10:12:22Z,
+pass-culture/pass-culture-main,Python,194,57,64,798605,2018-01-08T14:12:34Z,2026-10-29T10:12:21Z,Mozilla Public License 2.0
+Human-Agent-Society/reef,Python,7759,731,120,46546,2026-08-31T01:39:18Z,2026-10-29T10:12:20Z,Apache License 2.0
+glotzerlab/signac,Python,148,37,10,7284,2019-01-30T23:37:23Z,2026-10-29T10:12:16Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+reddishz/designdoc,Python,15,2,0,1859,2026-03-23T04:29:52Z,2026-10-29T10:12:17Z,MIT License
+AgentSparko/LIMCARS,Python,11,1,1,2733,2026-10-23T08:21:46Z,2026-10-29T10:12:10Z,MIT License
+duckdb/community-extensions,Python,354,305,76,8077,2024-06-03T10:42:22Z,2026-10-29T10:12:13Z,
+AOrbitron/Eridanus,Python,209,36,4,801283,2024-07-23T15:12:36Z,2026-10-29T10:12:09Z,Other
+yuki4266/yuki4266,Python,36,7,0,504,2026-06-17T23:31:40Z,2026-10-29T10:12:06Z,MIT License
+PostHog/posthog-foss,Python,726,126,0,4118335,2020-08-11T13:26:26Z,2026-10-29T10:11:59Z,MIT License
+zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships,Python,954,29,1,25604,2026-06-30T02:49:58Z,2026-10-29T10:12:00Z,MIT License
+networkhound/dot-in,Python,12,0,0,9009,2025-11-13T15:21:52Z,2026-10-29T10:12:00Z,The Unlicense
+buraksocial/IgnisDB,Python,53,4,5,15653,2025-06-10T23:03:34Z,2026-10-29T10:11:59Z,MIT License
+e2nIEE/pandapower,Python,1312,622,179,821631,2017-01-12T13:27:53Z,2026-10-29T10:11:57Z,Other
+tenstorrent/tt-metal,Python,1731,796,7221,2427582,2023-02-13T15:30:05Z,2026-10-29T10:11:56Z,Apache License 2.0
+riga/law,Python,117,52,0,4751,2016-12-03T15:34:35Z,2026-10-29T10:11:57Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+ditto-assistant/ditto-subnet,Python,11,37,465,93207,2026-04-29T13:22:08Z,2026-10-29T10:11:55Z,MIT License
+suitenumerique/dictaphone,Python,14,9,5,8134,2026-03-05T13:44:03Z,2026-10-29T10:11:54Z,MIT License
+RedHatQE/openshift-python-wrapper,Python,27,85,8,149350,2021-07-04T07:39:05Z,2026-10-29T10:11:52Z,Apache License 2.0
+matthiask/workbench,Python,44,14,1,18045,2019-03-11T21:00:41Z,2026-10-29T10:11:54Z,GNU General Public License v3.0
+fusedio/fused-render,Python,13,1,47,190611,2026-07-06T10:49:12Z,2026-10-29T10:11:54Z,MIT License
+prowler-cloud/prowler,Python,15121,2466,516,341572,2016-08-24T15:12:24Z,2026-10-29T10:12:04Z,Apache License 2.0
+UiPath/skills,Python,175,60,238,295802,2026-01-21T21:13:53Z,2026-10-29T10:11:45Z,MIT License
+z-liu-xiugou/research-workbench-assistant,Python,186,0,4,568,2026-09-07T08:38:58Z,2026-10-29T10:11:45Z,Apache License 2.0
+gil9red/SimplePyScripts,Python,153,42,1,107893,2014-08-05T16:19:52Z,2026-10-29T10:11:44Z,MIT License
+Q00/ouroboros,Python,6289,635,79,77530,2026-01-14T01:14:04Z,2026-10-29T10:11:43Z,MIT License
+hugonl31/Vectrex_EMU,Python,11,2,1,107416,2026-10-15T11:35:20Z,2026-10-29T10:11:42Z,GNU General Public License v3.0
+AlexanderMattTurner/agent-glovebox,Python,68,13,179,440259,2026-05-24T16:42:35Z,2026-10-29T10:11:42Z,Apache License 2.0
+glotzerlab/signac-dashboard,Python,16,6,23,3241,2019-01-30T22:34:07Z,2026-10-29T10:11:39Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+splattner/openzev,Python,11,1,40,112621,2026-03-18T19:32:46Z,2026-10-29T10:11:41Z,GNU Affero General Public License v3.0
+jchristel/SampleCodeRevitBatchProcessor,Python,55,16,0,237701,2020-05-29T09:17:08Z,2026-10-29T10:11:42Z,Other
+521xueweihan/GitHub520,Python,30083,2758,24,17715,2020-05-13T07:25:21Z,2026-10-29T10:11:48Z,
+deepspeedai/DeepSpeed,Python,43271,5061,1579,252228,2020-01-23T18:35:18Z,2026-10-29T10:11:51Z,Apache License 2.0
+SE-Sustainability-OSS/ecodev-core,Python,12,1,5,862,2024-01-09T09:56:03Z,2026-10-29T10:11:29Z,MIT License
+shuette42/ecoflow-energy-ha,Python,49,19,21,12562,2026-03-26T17:43:21Z,2026-10-29T10:11:25Z,MIT License
+exmergo/dex,Python,103,40,130,21050,2026-06-23T16:37:57Z,2026-10-29T10:11:25Z,Apache License 2.0
+onyks-os/TransparentTorProxy,Python,49,6,4,4071,2026-04-10T20:26:31Z,2026-10-29T10:11:22Z,MIT License
+openaccountants/openaccountants,Python,463,65,291,373263,2026-04-09T14:03:07Z,2026-10-29T10:11:22Z,GNU Affero General Public License v3.0
+evoila/meho,Python,17,2,782,52543,2026-03-31T13:34:04Z,2026-10-29T10:11:17Z,Apache License 2.0
+YinFengWindy/Shiori-Agent,Python,45,1,9,50779,2026-06-22T06:39:52Z,2026-10-29T10:11:20Z,MIT License
+urwid/urwid,Python,3026,350,55,16611,2010-02-25T14:44:22Z,2026-10-29T10:11:18Z,GNU Lesser General Public License v2.1
+alisson-anjos/Henge,Python,38,6,0,41135,2026-10-17T18:29:27Z,2026-10-29T10:11:11Z,MIT License
+vectorize-io/hindsight,Python,55876,6681,178,827002,2025-10-30T11:49:48Z,2026-10-29T10:11:58Z,MIT License
+flyersworder/lens,Python,11,0,0,1922,2026-03-19T20:12:38Z,2026-10-29T10:11:04Z,
+pydantic/pydantic-ai,Python,20941,3054,1610,358567,2024-06-21T15:55:04Z,2026-10-29T10:11:01Z,MIT License
+nvaccess/addon-datastore,Python,54,54,48,31947,2020-01-09T13:30:04Z,2026-10-29T10:11:01Z,Other
+perf-labs/perf,Python,111,6,0,1706,2025-04-15T13:01:11Z,2026-10-29T10:11:03Z,MIT License
+ttm/music,Python,66,12,6,3140,2016-02-20T11:11:35Z,2026-10-29T10:11:03Z,MIT License
+LNPANDY/NX2Apple,Python,1733,230,30,193387,2026-10-20T18:16:07Z,2026-10-29T10:12:18Z,MIT License
+BasedHardware/omi,Python,13851,2669,1421,1890831,2024-03-22T18:12:25Z,2026-10-29T10:10:58Z,MIT License
+fullsend-ai/rfe-creator,Python,18,41,15,4175,2026-03-23T22:48:02Z,2026-10-29T10:10:58Z,
+Chain-Love/chain-love,Python,273,364,1050,34500,2025-08-04T13:09:43Z,2026-10-29T10:10:49Z,Creative Commons Attribution Share Alike 4.0 International
+openvax/isovar,Python,27,16,36,277876,2016-02-04T20:14:48Z,2026-10-29T10:10:50Z,Apache License 2.0
+mrijk/py-predicate,Python,10,1,40,1680,2024-10-18T10:55:36Z,2026-10-29T10:10:46Z,MIT License
+conda-forge/staged-recipes,Python,849,6459,1554,184470,2015-09-02T21:49:20Z,2026-10-29T10:10:51Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+kaishi00/hermes-conduit-notifier,Python,82,14,14,7392,2026-07-18T16:20:32Z,2026-10-29T10:10:47Z,MIT License
+sportlive18/sportlink-update,Python,38,14,0,218597,2026-08-02T04:57:02Z,2026-10-29T10:10:45Z,
+pan-ontologies/PaNET,Python,13,10,196,1864,2020-06-09T14:39:01Z,2026-10-29T10:10:40Z,Creative Commons Attribution 4.0 International
+omnigent-ai/omnigent,Python,11110,1828,2591,391513,2026-06-11T12:18:13Z,2026-10-29T10:10:35Z,Apache License 2.0
+PostHog/posthog,Python,40508,3560,5129,8522234,2020-01-23T22:46:58Z,2026-10-29T10:10:32Z,Other
+mobius-os/mobius,Python,42,20,75,86235,2026-04-06T13:19:34Z,2026-10-29T10:10:23Z,MIT License
+yaneurao/YaneuraOu-ScriptCollection,Python,12,2,0,2505,2025-06-26T15:07:35Z,2026-10-29T10:10:23Z,MIT License
+cluk1/homeassistant-config,Python,10,1,0,505,2024-05-08T12:31:16Z,2026-10-29T10:10:23Z,
+ProxyScrape/free-proxy-list,Python,203,17,0,22170096,2026-05-27T22:07:15Z,2026-10-29T10:10:23Z,MIT License
+Gabzkk/PCAP-ANALYZER,Python,17,1,0,500,2026-09-06T06:40:36Z,2026-10-29T10:10:19Z,MIT License
+Asaceoo/bili-transcriber,Python,22,1,0,2477,2026-08-17T03:21:30Z,2026-10-29T10:10:18Z,MIT License
+ASEpochs/ai-digital-teacher,Python,13,0,0,3178,2026-09-14T08:37:18Z,2026-10-29T10:10:17Z,
+timoncool/civitai-mcp-ultimate,Python,24,6,0,173,2026-03-24T00:28:05Z,2026-10-29T10:10:15Z,MIT License
+TomoeMami/S1PlainTextBackup,Python,545,63,0,773996,2020-02-02T09:55:49Z,2026-10-29T10:10:11Z,
+stackhpc/ansible-slurm-appliance,Python,73,40,98,6096,2020-11-06T10:56:22Z,2026-10-29T10:10:10Z,Apache License 2.0
+onnxsim/onnxsim,Python,4421,440,18,92071,2019-04-01T10:12:34Z,2026-10-29T10:10:10Z,Apache License 2.0
+MagiclabRobotics/magicbot-z1_sdk,Python,12,3,1,213962,2025-08-22T01:45:17Z,2026-10-29T10:10:04Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+Reonarudo/tinygrad-npu-examples,Python,13,2,0,9153,2026-10-05T19:04:26Z,2026-10-29T10:10:03Z,GNU Affero General Public License v3.0
+bazelbuild/continuous-integration,Python,301,199,170,26766,2015-10-06T12:14:16Z,2026-10-29T10:10:03Z,Apache License 2.0
+ansible-collections/netapp.ontap,Python,71,56,83,7905,2021-05-05T19:04:32Z,2026-10-29T10:10:03Z,GNU General Public License v3.0
+mikropsoft/Security-Scan-Automator,Python,21,2,0,222,2022-05-16T19:57:00Z,2026-10-29T10:09:59Z,MIT License
+glue-viz/glue-solar,Python,10,8,1,43689,2019-03-06T11:09:23Z,2026-10-29T10:09:57Z,
+MicrosoftDocs/azure-docs-sdk-dotnet,Python,120,300,49,3308865,2016-07-18T15:21:07Z,2026-10-29T10:09:58Z,Creative Commons Attribution 4.0 International
+aeag/mask,Python,14,7,7,17147,2014-06-17T08:38:23Z,2026-10-29T10:09:56Z,
+cameron-eth/sleeper-sdk,Python,25,6,0,2753,2026-04-10T15:06:36Z,2026-10-29T10:09:45Z,
+SynaLinks/synalinks,Python,464,46,1,52196,2025-02-03T12:53:48Z,2026-10-29T10:09:41Z,Apache License 2.0
+FanBroWell/AI-paper-reviewer,Python,48,4,0,1124,2026-06-01T16:43:21Z,2026-10-29T10:09:38Z,MIT License
+Amsterdam/mapserver,Python,15,13,1,7599,2015-10-19T12:22:48Z,2026-10-29T10:09:33Z,Mozilla Public License 2.0
+DerpZhenjun/LabourLawyer,Python,136,2,0,102535,2026-02-22T12:02:37Z,2026-10-29T10:09:39Z,MIT License
+mcp-hangar/mcp-hangar,Python,17,10,65,17977,2025-12-15T23:42:25Z,2026-10-29T10:09:31Z,MIT License
+pytorch/pytorch,Python,105167,31853,17784,1699594,2016-08-13T05:26:41Z,2026-10-29T10:09:33Z,Other
+GNOME/gnome-shell,JavaScript,975,224,0,144200,2012-06-09T20:37:32Z,2026-10-29T10:12:51Z,GNU General Public License v2.0
+zloirock/core-js,JavaScript,25526,1681,48,132635,2013-07-17T16:32:27Z,2026-10-29T10:12:47Z,MIT License
+IamRamgarhia/Free-GST-Billing-Software,JavaScript,267,102,7,6241,2026-03-15T08:37:48Z,2026-10-29T10:12:46Z,MIT License
+xuanranran/openwrt-package,JavaScript,18,8,3,201473,2024-10-02T13:27:04Z,2026-10-29T10:12:39Z,
+MauroDruwel/NIMStats,JavaScript,58,18,3,66110,2026-04-27T20:08:00Z,2026-10-29T10:12:33Z,
+CyrisXD/CyrisXD,JavaScript,198,338,2,14116,2020-07-09T06:51:17Z,2026-10-29T10:12:32Z,
+YuDefine/nuxt-supabase-starter,JavaScript,44,3,0,29282,2026-01-20T19:11:10Z,2026-10-29T10:12:31Z,MIT License
+Winnougan/Nougan_Nodes,JavaScript,17,1,0,1140,2026-07-21T19:25:54Z,2026-10-29T10:12:29Z,
+Entkenntnis/htw,JavaScript,19,16,0,137487,2023-03-17T13:50:03Z,2026-10-29T10:12:22Z,MIT License
+amontlabs/lcu,JavaScript,2292,152,1,13147,2026-09-22T15:08:18Z,2026-10-29T10:12:22Z,MIT License
+yuyan-lang/yuyan,JavaScript,28,4,163,236541,2021-10-15T20:29:09Z,2026-10-29T10:12:21Z,GNU Affero General Public License v3.0
+makecindy/cindy-official-plugins,JavaScript,17,38,26,187838,2026-07-23T11:19:29Z,2026-10-29T10:12:21Z,Apache License 2.0
+wix/skills,JavaScript,36,38,2,27817,2026-01-25T07:34:16Z,2026-10-29T10:12:18Z,MIT License
+r4y7s/laliga-ip-list,JavaScript,21,2,0,4631,2025-04-08T07:16:40Z,2026-10-29T10:12:18Z,
+Jianwei-Zhang/CGAT,JavaScript,39,11,0,30738,2016-03-08T01:30:09Z,2026-10-29T10:11:56Z,
+buidangminh23/spacing-skill,JavaScript,10,0,0,643,2026-06-21T00:43:29Z,2026-10-29T10:11:55Z,MIT License
+ioBroker/ioBroker.repositories,JavaScript,161,413,98,9394,2017-03-08T20:29:58Z,2026-10-29T10:11:56Z,MIT License
+regrevia/Revia,JavaScript,82,0,0,3493,2026-08-24T03:35:02Z,2026-10-29T10:11:52Z,Mozilla Public License 2.0
+blotcms/blot,JavaScript,1983,98,11,4534005,2016-01-29T01:04:05Z,2026-10-29T10:11:35Z,GNU Affero General Public License v3.0
+GMyhf/2026fall-cs101,JavaScript,30,2,0,575880,2026-08-09T06:44:28Z,2026-10-29T10:11:35Z,
+Magiczerowxy/dsh-modef,JavaScript,17,2,0,530,2026-08-17T05:09:17Z,2026-10-29T10:11:31Z,
+AdguardTeam/AdGuardFiltersStats,JavaScript,20,6,1,1337617,2022-12-18T13:42:05Z,2026-10-29T10:11:15Z,
+NotValra/RoValra,JavaScript,264,116,41,15020,2024-12-10T09:01:26Z,2026-10-29T10:11:06Z,Other
+danoszz/penthera,JavaScript,75,13,5,22181,2026-06-30T07:59:58Z,2026-10-29T10:11:05Z,MIT License
+hm4reggggg/jichang,JavaScript,18,2,0,1727,2026-05-25T01:04:28Z,2026-10-29T10:10:56Z,
+lovasoa/whitebophir,JavaScript,2675,487,96,14341,2013-08-27T17:35:17Z,2026-10-29T10:10:49Z,GNU Affero General Public License v3.0
+liliMozi/hana-marketplace,JavaScript,17,37,43,7434,2026-09-13T03:19:05Z,2026-10-29T10:10:48Z,Apache License 2.0
+dofastted/vm2api,JavaScript,1612,423,21,16152,2026-09-16T08:38:18Z,2026-10-29T10:10:46Z,Other
+panva/node-oidc-provider,JavaScript,3843,797,0,8639,2015-12-02T09:17:41Z,2026-10-29T10:10:47Z,MIT License
+Aioneas/Surge,JavaScript,49,2,0,19002,2026-03-28T19:24:47Z,2026-10-29T10:10:45Z,
+imsai-sh/awesome-deepseek-harness-plugins,JavaScript,333,344,91,12852,2026-08-14T05:53:47Z,2026-10-29T10:10:41Z,MIT License
+orziz/odai,JavaScript,119,18,0,34542,2026-03-19T01:32:22Z,2026-10-29T10:10:20Z,MIT License
+nodejs/undici,JavaScript,7726,964,416,18561,2018-05-11T22:07:48Z,2026-10-29T10:10:21Z,MIT License
+wrappixel/admin-pro-lite,JavaScript,14,2,0,6151,2018-04-26T10:12:59Z,2026-10-29T10:10:12Z,
+YuqingNicole/variant-design-skill,JavaScript,47,0,10,6561,2026-03-11T15:21:48Z,2026-10-29T10:10:10Z,MIT License
+dohoon84/bumpinto-world,JavaScript,11,2,0,4104,2026-10-27T15:33:45Z,2026-10-29T10:10:02Z,Other
+duckduckgo/privacy-configuration,JavaScript,218,136,66,338999,2021-06-24T14:05:25Z,2026-10-29T10:10:02Z,Other
+is-a-dev/register,JavaScript,11677,33692,10,337694,2020-10-04T20:05:28Z,2026-10-29T10:12:42Z,MIT License
+SounDoer/PLVS,JavaScript,19,1,0,115492,2026-03-23T05:49:27Z,2026-10-29T10:09:35Z,MIT License
+carl10086/ys-powers,JavaScript,10,0,0,4886,2026-04-10T11:15:07Z,2026-10-29T10:09:29Z,
+apify/apify-docs,JavaScript,86,245,227,294230,2019-07-29T14:23:29Z,2026-10-29T10:09:24Z,Apache License 2.0
+LucaGenchi/opticalsetup,JavaScript,27,2,3,15550,2026-07-16T23:10:13Z,2026-10-29T10:09:18Z,GNU General Public License v3.0
+FMPeach/Kirakara-Player,JavaScript,20,2,0,2221,2026-06-09T12:34:08Z,2026-10-29T10:09:15Z,MIT License
+refiaa/VRChatFriendShipVisualizer,JavaScript,21,2,0,5439,2024-12-11T09:22:48Z,2026-10-29T10:09:12Z,MIT License
+PaulKinlan/idb-vector,JavaScript,106,9,1,54797,2023-03-26T18:28:30Z,2026-10-29T10:09:00Z,Apache License 2.0
+xiaweiss/paff,JavaScript,14,2,0,377,2023-02-27T03:18:46Z,2026-10-29T10:08:54Z,MIT License
+electerm/electerm,JavaScript,15498,1253,365,34953,2017-10-07T09:54:11Z,2026-10-29T10:08:57Z,MIT License
+zordhalo/runs-on.dev,JavaScript,505,148,69,5577,2026-08-31T01:51:22Z,2026-10-29T10:08:48Z,GNU Affero General Public License v3.0
+the-ptf/milagre,JavaScript,10,6,33,452931,2026-10-01T12:43:10Z,2026-10-29T10:08:40Z,MIT License
+nguyenthienthanh/archon,JavaScript,25,3,0,55006,2025-11-25T11:50:43Z,2026-10-29T10:08:39Z,MIT License
+Baskerville42/outage-data-ua,JavaScript,63,8,0,13983823,2025-11-06T07:20:46Z,2026-10-29T10:08:35Z,Other
+ljlfct01/ljlfct01.github.io,JavaScript,96,21,1,46277,2024-02-26T11:56:41Z,2026-10-29T10:08:25Z,
+huanglizhuo/OctoCounts,JavaScript,20,3,2,9640,2026-05-01T15:52:03Z,2026-10-29T10:08:21Z,MIT License
+xiaolongbao0709/ai-virtual-phone-share,JavaScript,32,72,2,604207,2026-08-10T10:32:48Z,2026-10-29T10:08:11Z,
+shaka-project/shaka-player,JavaScript,8265,1527,53,294644,2014-12-19T21:12:18Z,2026-10-29T10:08:21Z,Apache License 2.0
+KleiKodesh/KleiKodeshProject,JavaScript,25,7,10,900608,2025-12-19T00:55:06Z,2026-10-29T10:07:49Z,Other
+timoncool/Bulka,JavaScript,62,5,1,853044,2025-12-06T23:48:13Z,2026-10-29T10:07:39Z,GNU Affero General Public License v3.0
+Noob-stupid/dsh-plugin-gating-hub,JavaScript,116,8,1,9083,2026-08-14T08:39:43Z,2026-10-29T10:07:36Z,MIT License
+adityarya24/agent-notch,JavaScript,15,1,0,60578,2026-08-29T21:08:35Z,2026-10-29T10:07:35Z,MIT License
+gardener/dashboard,JavaScript,218,126,102,1094045,2018-01-23T13:43:58Z,2026-10-29T10:07:34Z,Apache License 2.0
+tourajghaffari/tigerfid,JavaScript,155,35,0,776420,2017-01-13T01:38:15Z,2026-10-29T10:07:26Z,Apache License 2.0
+UI5/openui5,JavaScript,3323,1275,113,1182719,2013-12-10T18:11:33Z,2026-10-29T10:07:35Z,Apache License 2.0
+incyclist/desktop,JavaScript,47,13,10,3654,2024-02-15T09:25:43Z,2026-10-29T10:07:21Z,
+OrderlyNetwork/orderly-mcp,JavaScript,10,2,1,3938,2026-02-05T07:26:38Z,2026-10-29T10:07:04Z,MIT License
+dcloudio/uni-app,JavaScript,41626,3703,713,8579718,2018-07-12T08:52:39Z,2026-10-29T10:09:37Z,Apache License 2.0
+cms-sw/cms-sw.github.io,JavaScript,25,59,4,661412,2014-06-04T12:25:03Z,2026-10-29T10:06:51Z,
+AlaSQL/alasql,JavaScript,7295,710,614,102520,2014-10-26T16:30:37Z,2026-10-29T10:06:51Z,MIT License
+yyh-001/dsh-meme,JavaScript,438,7,1,26956,2026-08-13T14:54:33Z,2026-10-29T10:06:48Z,MIT License
+kwakseongjae/oh-my-design,JavaScript,551,48,22,234977,2026-04-13T09:57:10Z,2026-10-29T10:06:46Z,MIT License
+webbrain-one/webbrain,JavaScript,1575,195,7,2125352,2026-04-06T15:17:01Z,2026-10-29T10:06:37Z,Other
+3kh0/slack-datamine,JavaScript,11,0,0,9850,2026-05-31T17:25:48Z,2026-10-29T10:06:29Z,GNU General Public License v3.0
+nexscope-ai/ecommerce-ai-tools,JavaScript,142,3,0,11991,2026-09-14T09:35:50Z,2026-10-29T10:06:26Z,Apache License 2.0
+ThinkFlowLab/FlyBot,JavaScript,19,5,54,37783,2026-10-14T06:34:33Z,2026-10-29T10:07:06Z,Apache License 2.0
+flatlogic/dashboard,JavaScript,17,14,0,24052,2015-10-26T15:15:05Z,2026-10-29T10:06:13Z,Apache License 2.0
+coolsnowwolf/luci,JavaScript,387,630,2,474261,2018-10-17T14:28:29Z,2026-10-29T10:06:13Z,Apache License 2.0
+flatlogic/angular-dashboard-seed,JavaScript,196,100,1,906,2015-01-23T09:56:36Z,2026-10-29T10:06:06Z,MIT License
+adapt-toolkit/ours-network,JavaScript,24,0,5,1777,2026-07-03T09:15:25Z,2026-10-29T10:06:02Z,Other
+flatlogic/react-dashboard,JavaScript,1646,385,5,22112,2016-02-02T14:08:02Z,2026-10-29T10:05:57Z,
+gbroeckling/padspanHA,JavaScript,289,19,1,325569,2026-02-05T00:10:53Z,2026-10-29T10:05:39Z,GNU General Public License v3.0
+XiaoM-OVO/Mihomo-Toolkit,JavaScript,24,4,0,2717,2026-05-26T13:41:11Z,2026-10-29T10:05:37Z,MIT License
+EcrituresNumeriques/stylo,JavaScript,70,15,292,76495,2017-10-03T17:03:04Z,2026-10-29T10:05:34Z,GNU General Public License v3.0
+storm-software/cyclone-ui,JavaScript,14,2,55,73276,2024-04-09T12:34:36Z,2026-10-29T10:05:31Z,Apache License 2.0
+01men/ybkkasi,JavaScript,21,0,0,15848,2026-10-13T08:24:21Z,2026-10-29T10:05:26Z,MIT License
+gramps-project/gramps-web,JavaScript,1784,284,67,20377,2020-11-24T19:12:29Z,2026-10-29T10:05:26Z,GNU Affero General Public License v3.0
+niakw/NiakVIO,JavaScript,13,1,3,147635,2026-07-28T04:21:47Z,2026-10-29T10:05:24Z,GNU General Public License v3.0
+modx-pro/Docs,JavaScript,70,132,7,78238,2014-01-06T14:08:10Z,2026-10-29T10:05:23Z,GNU General Public License v2.0
+nanless/audio-paper-digest,JavaScript,43,5,0,65809,2026-04-23T11:46:31Z,2026-10-29T10:05:21Z,MIT License
+gjj-star/dsh-conversation-navigator,JavaScript,22,1,0,18720,2026-08-17T07:40:44Z,2026-10-29T10:05:00Z,MIT License
+solardev-xyz/freedom-browser,JavaScript,167,31,81,202405,2026-02-08T07:17:01Z,2026-10-29T10:04:59Z,Mozilla Public License 2.0
+bbc/world-service-rss,JavaScript,21,3,1,162100,2025-02-01T13:27:04Z,2026-10-29T10:04:58Z,
+nurkamol/website-build-kit,JavaScript,29,4,2,2425,2026-08-26T20:02:05Z,2026-10-29T10:04:52Z,MIT License
+mozilla-firefox/firefox,JavaScript,13640,1701,6,5614474,2024-07-30T01:51:51Z,2026-10-29T10:06:17Z,Other
+teamdigitale/innovazione.gov.it-site,JavaScript,10,8,14,331709,2020-11-23T10:00:00Z,2026-10-29T10:04:51Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+fastify/fastify-jwt,JavaScript,587,123,12,600,2017-06-07T16:11:55Z,2026-10-29T10:04:49Z,MIT License
+AikidoSec/safe-chain,JavaScript,1834,119,146,3027,2025-07-11T15:00:25Z,2026-10-29T10:04:43Z,Other
+ConcordDev/concord-cognitive-engine,JavaScript,12,4,78,1652935,2025-11-28T16:46:01Z,2026-10-29T10:04:44Z,Other
+vercel/next.js,JavaScript,143194,34159,3750,2615005,2016-10-05T23:32:51Z,2026-10-29T10:05:40Z,MIT License
+aws-samples/sample-collaborative-ai-dlc,JavaScript,117,50,129,21769,2026-04-15T09:49:41Z,2026-10-29T10:04:36Z,MIT No Attribution
+dhis2/dashboard-app,JavaScript,45,46,14,54193,2017-05-02T10:54:17Z,2026-10-29T10:04:31Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+DuarteSantos8/openGym,JavaScript,17188,2240,223,319975,2026-07-18T20:41:24Z,2026-10-29T10:11:12Z,GNU Affero General Public License v3.0
+Insane96/InsaneSurvivalOverhaul,Java,16,16,3,26632,2018-01-18T10:45:58Z,2026-10-29T10:12:31Z,
+NYRDS/remixed-dungeon,Java,296,86,9,248130,2014-12-21T21:43:24Z,2026-10-29T10:12:01Z,GNU General Public License v3.0
+xpipe-io/xpipe,Java,14636,573,65,75255,2023-01-27T02:25:38Z,2026-10-29T10:11:50Z,Apache License 2.0
+dishanhai/gtl_shanhai-dishanhai,Java,17,1,2,296163,2026-05-12T09:38:25Z,2026-10-29T10:11:36Z,GNU Lesser General Public License v3.0
+CloudSlang/cs-actions,Java,44,57,58,42141,2014-12-21T16:30:37Z,2026-10-29T10:11:27Z,Apache License 2.0
+jhspetersson/packrat,Java,30,1,0,538,2024-04-27T14:13:03Z,2026-10-29T10:11:26Z,Apache License 2.0
+Radiant303/SpringAgent,Java,29,1,0,5772,2026-08-20T11:59:05Z,2026-10-29T10:11:26Z,Apache License 2.0
+sikt-no/graphitron,Java,18,0,17,87260,2025-05-12T07:36:56Z,2026-10-29T10:11:25Z,MIT License
+star4droid/Star2D,Java,50,13,6,439215,2024-03-02T14:52:54Z,2026-10-29T10:11:15Z,Apache License 2.0
+quarkusio/quarkus,Java,15969,3350,2905,542079,2018-07-06T00:44:20Z,2026-10-29T10:10:52Z,Apache License 2.0
+Ahoo-Wang/CosId,Java,652,87,11,18584,2021-06-23T04:40:29Z,2026-10-29T10:10:42Z,Apache License 2.0
+TAKETODAY/today-infrastructure,Java,132,14,24,102013,2018-08-16T12:12:39Z,2026-10-29T10:10:43Z,Apache License 2.0
+zextras/carbonio-mailbox,Java,76,21,33,123075,2021-12-22T15:33:02Z,2026-10-29T10:10:42Z,GNU General Public License v2.0
+liquid-java/liquidjava,Java,71,37,69,37957,2020-04-23T13:42:59Z,2026-10-29T10:10:32Z,MIT License
+liquibase/liquibase,Java,5638,1975,268,314385,2011-07-08T20:08:20Z,2026-10-29T10:10:10Z,Other
+elastic/apm-agent-java,Java,592,340,167,30620,2018-02-12T11:05:32Z,2026-10-29T10:10:05Z,Apache License 2.0
+apache/pinot,Java,6169,1527,1272,373071,2014-05-19T23:27:48Z,2026-10-29T10:09:41Z,Apache License 2.0
+quarkusio/quarkus-platform-bom-generator,Java,10,25,14,2541,2020-09-10T15:01:02Z,2026-10-29T10:09:35Z,Apache License 2.0
+google/mug,Java,537,91,0,99975,2017-02-14T17:01:43Z,2026-10-29T10:09:30Z,Apache License 2.0
+swiyu-admin-ch/swiyu-issuer,Java,17,13,12,11735,2025-06-19T08:04:57Z,2026-10-29T10:09:20Z,MIT License
+apache/tomcat,Java,8268,5410,53,220548,2011-10-01T07:00:19Z,2026-10-29T10:09:38Z,Apache License 2.0
+BYNekoNay/intelligent-resume-builder,Java,12,0,0,6658,2026-07-26T14:06:49Z,2026-10-29T10:09:00Z,
+ShaftHQ/SHAFT_ENGINE,Java,416,155,15,583006,2018-07-15T07:02:02Z,2026-10-29T10:08:54Z,MIT License
+OpenOLAT/OpenOLAT,Java,449,166,5,683100,2018-03-29T09:46:34Z,2026-10-29T10:08:46Z,Other
+GregTech-Odyssey/GTOCore-Main,Java,12,10,0,36952,2026-07-17T01:06:47Z,2026-10-29T10:08:40Z,Other
+apache/causeway,Java,907,314,20,416447,2012-11-30T08:00:24Z,2026-10-29T10:08:34Z,Apache License 2.0
+domstolene/da-otel-agent,Java,16,3,8,2303,2023-06-14T12:27:00Z,2026-10-29T10:08:19Z,Apache License 2.0
+DataDog/dd-trace-java,Java,738,365,528,334037,2017-04-24T09:24:40Z,2026-10-29T10:08:03Z,Apache License 2.0
+heremaps/xyz-hub,Java,75,44,23,48016,2019-12-06T16:05:33Z,2026-10-29T10:07:59Z,Apache License 2.0
+google/device-infra,Java,88,46,160,31775,2022-04-15T03:00:41Z,2026-10-29T10:07:34Z,Apache License 2.0
+vividus-framework/vividus,Java,415,95,171,110862,2019-06-21T11:40:01Z,2026-10-29T10:07:34Z,Apache License 2.0
+jnr/jnr-posix,Java,253,91,38,2844,2011-07-24T02:15:59Z,2026-10-29T10:07:27Z,Other
+powsybl/powsybl-open-rao,Java,33,14,95,47100,2018-11-22T10:41:50Z,2026-10-29T10:07:06Z,Mozilla Public License 2.0
+OWASP/SecurityShepherd,Java,1464,518,202,194952,2013-11-09T15:57:16Z,2026-10-29T10:06:52Z,GNU General Public License v3.0
+wso2/carbon-identity-framework,Java,138,626,127,840045,2016-02-23T04:20:26Z,2026-10-29T10:06:25Z,Apache License 2.0
+AI-Unified-Process/marketplace,Java,151,26,4,3462,2026-02-28T11:21:13Z,2026-10-29T10:06:20Z,Apache License 2.0
+ICIJ/datashare,Java,771,73,76,421100,2016-04-20T07:52:07Z,2026-10-29T10:06:17Z,GNU Affero General Public License v3.0
+aaron-gh/SandFly,Java,13,2,3,73555,2026-10-19T20:22:44Z,2026-10-29T10:06:09Z,Apache License 2.0
+unmeshjoshi/tickloom,Java,84,9,0,2666,2025-07-29T13:53:09Z,2026-10-29T10:06:01Z,Apache License 2.0
+hephaestus-build/Hephaestus,Java,22,2,20,140854,2024-05-20T16:47:03Z,2026-10-29T10:05:42Z,MIT License
+mishmash-io/opentelemetry-server-embedded,Java,37,1,3,1465,2024-03-16T08:41:07Z,2026-10-29T10:05:39Z,Apache License 2.0
+apache/incubator-kie,Java,6343,2604,298,676247,2011-02-18T08:37:05Z,2026-10-29T10:05:22Z,Apache License 2.0
+nokryong/mobile-codex,Java,56,7,2,129911,2026-09-21T13:23:23Z,2026-10-29T10:05:07Z,GNU General Public License v3.0
+DeepL/deepl-java,Java,146,26,17,1382,2022-08-29T10:25:51Z,2026-10-29T10:04:40Z,MIT License
+kestra-io/kestra,Java,30056,3488,849,151170,2019-08-24T13:56:15Z,2026-10-29T10:04:39Z,Apache License 2.0
+SonarSource/sonar-python,Java,252,105,1,88265,2012-06-27T15:50:36Z,2026-10-29T10:04:08Z,Other
+elastic/elasticsearch,Java,78429,26166,6214,1833037,2010-02-08T13:20:56Z,2026-10-29T10:09:31Z,Other
+tinywind/video-streaming-service,Java,14,33,0,30382,2016-05-30T19:57:17Z,2026-10-29T10:04:03Z,MIT License
+x1F/sip-framework,Java,39,0,10,169208,2021-11-06T10:36:44Z,2026-10-29T10:03:55Z,Apache License 2.0
+smallrye/smallrye-fault-tolerance,Java,113,47,11,3882,2018-05-25T20:19:12Z,2026-10-29T10:03:16Z,Apache License 2.0
+wildfly/wildfly-core,Java,201,487,24,113167,2014-07-01T16:33:34Z,2026-10-29T10:03:15Z,Apache License 2.0
+oceanbase/ob-samples,Java,18,23,3,3093,2022-08-08T03:02:44Z,2026-10-29T10:03:08Z,
+gravitee-io/gravitee-api-management,Java,465,121,84,468281,2015-05-29T07:04:12Z,2026-10-29T10:02:39Z,Apache License 2.0
+CallmeSHaobe/123Technology,Java,117,24,10,88688,2024-08-16T04:34:38Z,2026-10-29T10:02:23Z,GNU General Public License v3.0
+OpenAEV-Platform/openaev,Java,1838,231,861,259909,2016-09-12T23:36:20Z,2026-10-29T10:02:18Z,Other
+kelcok22/Kamen_Rider_Craft,Java,13,7,1,174000,2024-08-13T15:16:20Z,2026-10-29T10:02:15Z,MIT License
+fli-iam/shanoir-ng,Java,29,29,323,222225,2016-08-08T08:43:40Z,2026-10-29T10:02:12Z,GNU General Public License v3.0
+prop11/PZO-Launcher,Java,27,0,8,9895,2026-08-27T23:59:18Z,2026-10-29T10:01:58Z,Other
+bazelbuild/bazel,Java,26011,4668,2086,1030653,2014-06-12T16:00:38Z,2026-10-29T10:01:44Z,Apache License 2.0
+bytechefhq/bytechef,Java,1050,178,529,173299,2021-09-30T03:39:20Z,2026-10-29T10:01:39Z,Other
+apache/shenyu,Java,8906,3106,379,94452,2018-07-11T08:17:45Z,2026-10-29T10:01:36Z,Apache License 2.0
+apache/hudi,Java,6345,2534,3044,2935941,2016-12-14T15:53:41Z,2026-10-29T10:01:44Z,Apache License 2.0
+OpenLineage/OpenLineage,Java,2730,555,398,83235,2020-10-24T21:45:05Z,2026-10-29T10:01:27Z,Apache License 2.0
+chuoinho/FermataX,Java,80,3,7,29801,2026-07-01T09:12:19Z,2026-10-29T10:01:40Z,GNU General Public License v3.0
+OpenIdentityPlatform/OpenICF,Java,47,31,10,13896,2018-04-09T19:30:01Z,2026-10-29T10:01:18Z,Other
+camunda/connectors,Java,72,59,247,68086,2022-09-30T11:56:23Z,2026-10-29T10:01:09Z,Other
+eXist-db/exist,Java,473,194,481,716825,2013-07-26T21:53:48Z,2026-10-29T10:00:41Z,GNU Lesser General Public License v2.1
+baomidou/mybatis-plus,Java,17480,4440,23,34390,2016-08-18T10:06:53Z,2026-10-29T10:00:16Z,Apache License 2.0
+quarkiverse/quarkus-jberet,Java,69,24,6,1331,2020-09-30T11:38:37Z,2026-10-29T10:00:13Z,Apache License 2.0
+spring-projects/spring-boot,Java,81778,44064,468,226182,2012-10-19T15:02:57Z,2026-10-29T10:02:20Z,Apache License 2.0
+apache/skywalking,Java,24978,6629,34,182172,2015-11-07T03:30:36Z,2026-10-29T10:00:03Z,Apache License 2.0
+naver/scavenger,Java,465,48,11,93778,2023-01-13T10:52:33Z,2026-10-29T09:59:33Z,Apache License 2.0
+invesdwin/invesdwin-util,Java,18,4,4,14715,2015-07-20T19:05:14Z,2026-10-29T09:59:23Z,GNU Lesser General Public License v3.0
+apache/streampipes,Java,754,248,57,341343,2018-04-22T20:06:55Z,2026-10-29T09:59:15Z,Apache License 2.0
+OpenChrom/openchrom,Java,136,40,7,72914,2019-08-14T08:02:42Z,2026-10-29T09:59:14Z,Eclipse Public License 2.0
+hsbc/cranker-connector,Java,26,9,1,312,2022-06-23T09:54:43Z,2026-10-29T09:58:51Z,Apache License 2.0
+jhagenauer/gwann,Java,30,5,2,19689,2020-03-23T08:28:51Z,2026-10-29T09:58:44Z,
+Suz41/Fishbowl,Java,64,4,0,1326180,2026-08-23T20:31:57Z,2026-10-29T09:58:25Z,GNU General Public License v3.0
+optivem/shop,Java,11,1,67,12171,2026-03-30T07:35:27Z,2026-10-29T09:58:17Z,MIT No Attribution
+SonarSource/sonarlint-eclipse,Java,274,129,3,20309,2011-02-10T09:32:22Z,2026-10-29T08:27:34Z,GNU Lesser General Public License v3.0
+StarRocks/starrocks,Java,12215,2640,1629,797406,2021-09-04T02:29:35Z,2026-10-29T10:06:40Z,Apache License 2.0
+torakiki/pdfsam,Java,4649,410,125,27581,2013-09-24T11:06:13Z,2026-10-29T09:57:31Z,GNU Affero General Public License v3.0
+elexis/elexis-3-core,Java,19,34,15,443286,2013-06-19T08:21:47Z,2026-10-29T09:57:27Z,Eclipse Public License 1.0
+zwc456baby/ScrcpyForAndroid,Java,915,122,47,15194,2024-10-19T15:04:00Z,2026-10-29T09:57:20Z,GNU General Public License v3.0
+elastic/elastic-otel-java,Java,36,34,41,4957,2023-09-04T09:16:14Z,2026-10-29T09:57:00Z,Apache License 2.0
+sosy-lab/cpachecker,Java,269,93,0,953486,2014-05-23T16:57:37Z,2026-10-29T09:56:44Z,Apache License 2.0
+apache/flink-connector-aws,Java,81,101,31,1799,2022-07-27T14:55:32Z,2026-10-29T09:56:46Z,Apache License 2.0
+JUKOMU/JQ-Viewer,Java,72,0,6,27093,2026-05-22T13:54:32Z,2026-10-29T09:56:39Z,MIT License
+urlaubsverwaltung/zeiterfassung,Java,69,13,114,14807,2022-11-16T19:54:47Z,2026-10-29T09:56:26Z,GNU Affero General Public License v3.0
+proxmint/free-proxy-list,Java,25,0,0,110682,2026-08-05T20:50:42Z,2026-10-29T09:56:26Z,Creative Commons Attribution 4.0 International
+pulumi/pulumi-java,Java,84,27,184,469682,2022-01-24T15:37:16Z,2026-10-29T09:56:23Z,Apache License 2.0
+getbrevo/brevo-java,Java,16,7,9,1320,2023-05-02T09:37:59Z,2026-10-29T09:56:02Z,MIT License
+adoptium/jdk,Java,243,32,0,1293487,2021-04-27T10:15:30Z,2026-10-29T09:55:53Z,GNU General Public License v2.0
+Abhinav1416/coding-platform,Java,140,33,10,6685,2025-09-07T14:03:50Z,2026-10-29T09:55:34Z,
+box/box-java-sdk,Java,171,189,19,166711,2014-10-24T21:39:01Z,2026-10-29T09:55:27Z,Apache License 2.0
+DataBiosphere/consent,Java,11,2,20,20394,2014-08-21T17:50:53Z,2026-10-29T09:54:58Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+klikli-dev/occultism,Java,102,80,20,31404,2020-02-27T10:12:56Z,2026-10-29T09:54:56Z,MIT License
+00SunRay00/scheme-size-port,Java,48,7,0,639,2025-07-25T09:58:02Z,2026-10-29T09:54:53Z,GNU General Public License v3.0
+Viktorious-x/ps5-bdjb-modified-ISOs,Java,293,24,2,720570,2025-04-27T20:03:10Z,2026-10-29T09:54:49Z,Apache License 2.0
+adobe/aemanalyser-maven-plugin,Java,30,26,36,7509,2020-07-22T13:28:24Z,2026-10-29T09:54:46Z,Apache License 2.0
+Kyoril/mmo,C++,55,23,18,82396,2018-11-16T10:51:48Z,2026-10-29T10:12:54Z,GNU Affero General Public License v3.0
+homaaio/HomRec,C++,23,1,0,14355,2026-03-11T14:32:34Z,2026-10-29T10:12:33Z,GNU General Public License v3.0
+eclipse-omr/omr,C++,1014,431,952,102076,2016-03-03T19:34:17Z,2026-10-29T10:12:26Z,Other
+keepvaibin/nebula,C++,468,21,13,22151,2026-10-06T08:38:48Z,2026-10-29T10:12:18Z,GNU General Public License v3.0
+sayedalve/Radium-Download-Manager,C++,12,0,0,10144,2026-10-16T14:06:33Z,2026-10-29T10:12:16Z,Apache License 2.0
+gcc-mirror/gcc,C++,11320,4860,52,4192756,2014-08-07T06:50:37Z,2026-10-29T10:12:13Z,GNU General Public License v2.0
+tu-darmstadt-ros-pkg/image_projection,C++,203,38,7,12863,2021-02-19T15:21:22Z,2026-10-29T10:11:33Z,MIT License
+halide/Halide,C++,6628,1107,809,207141,2012-07-31T04:05:25Z,2026-10-29T10:11:30Z,Other
+jef-n/OSGeo4W,C++,36,39,2,33177,2021-02-20T13:09:02Z,2026-10-29T10:11:12Z,Other
+odoare/TeAr,C++,58,2,5,1787,2025-12-07T09:13:16Z,2026-10-29T10:11:10Z,GNU Lesser General Public License v3.0
+frePPLe/frepple,C++,771,338,52,165113,2013-09-12T06:06:53Z,2026-10-29T10:11:06Z,Other
+amine-jelassi7/Competitive-Programming,C++,16,0,0,214,2026-06-02T02:09:41Z,2026-10-29T10:11:02Z,
+kushview/element,C++,1759,150,85,13570,2019-10-22T19:51:07Z,2026-10-29T10:11:03Z,
+topling/mytopling,C++,24,5,3,4129926,2022-10-12T02:12:56Z,2026-10-29T10:10:57Z,Other
+Samsung/escargot,C++,369,62,14,413926,2018-09-12T09:34:44Z,2026-10-29T10:10:38Z,GNU Lesser General Public License v2.1
+ModbusScope/ModbusScope,C++,103,39,5,321167,2014-10-08T18:24:28Z,2026-10-29T10:09:59Z,GNU General Public License v3.0
+Odrannnn/MetroidPrime2Port,C++,35,1,4,48965,2026-10-21T19:42:53Z,2026-10-29T10:09:55Z,Other
+Duet3D/Duet3Expansion,C++,23,30,9,41858,2018-09-04T09:34:44Z,2026-10-29T10:09:54Z,GNU General Public License v3.0
+ytsaurus/ytsaurus,C++,2325,239,519,1369218,2022-12-05T16:32:05Z,2026-10-29T10:09:54Z,Apache License 2.0
+hunspell/hunspell,C++,2614,286,97,9846,2015-06-11T11:57:22Z,2026-10-29T10:09:52Z,GNU Lesser General Public License v2.1
+AliceO2Group/O2Physics,C++,64,695,41,123363,2021-07-14T13:54:30Z,2026-10-29T10:09:42Z,GNU General Public License v3.0
+finalburnneo/FBNeo,C++,1555,505,79,163907,2019-04-29T12:25:11Z,2026-10-29T10:09:45Z,Other
+Tigule/Alpha,C++,21,3,1,6969,2024-09-14T17:07:52Z,2026-10-29T10:09:28Z,MIT License
+lanmessenger/lanmessenger,C++,376,88,30,3608,2016-11-10T14:02:25Z,2026-10-29T10:09:27Z,GNU General Public License v3.0
+AtomiJD/jdBasic,C++,19,2,1,158017,2025-07-04T03:10:37Z,2026-10-29T10:09:18Z,MIT License
+tsingyayin/YayinStoryStudio,C++,16,1,0,49458,2025-05-01T02:29:48Z,2026-10-29T10:09:10Z,GNU Lesser General Public License v2.1
+nihilai-collective/Jsonifier,C++,103,7,0,36524,2022-10-19T07:45:18Z,2026-10-29T10:09:08Z,MIT License
+cagnulein/qdomyos-zwift,C++,887,240,373,509265,2020-09-09T15:42:41Z,2026-10-29T10:09:03Z,GNU General Public License v3.0
+apache/iceberg-cpp,C++,229,141,63,9859,2024-11-22T08:45:21Z,2026-10-29T10:08:47Z,Apache License 2.0
+boykopovar/AnyPS5,C++,49391,4672,1676,113080,2026-08-03T21:30:25Z,2026-10-29T10:12:09Z,GNU General Public License v2.0
+lballabio/QuantLib,C++,7717,2365,71,87707,2015-12-17T16:29:33Z,2026-10-29T10:08:31Z,Other
+cyborqz/SandalCore,C++,12,11,1,15464,2026-10-12T22:05:21Z,2026-10-29T10:08:21Z,GNU Affero General Public License v3.0
+google/dawn,C++,1194,227,8,460850,2023-10-04T16:54:23Z,2026-10-29T10:08:09Z,Other
+robongrui/derp,C++,28,1,4,23415,2026-10-08T11:55:12Z,2026-10-29T10:07:42Z,GNU General Public License v3.0
+snuri00/ps2-web-recomp,C++,1332,118,3,12760,2026-10-08T07:06:56Z,2026-10-29T10:06:51Z,MIT License
+xifan2333/fcitx5-vinput,C++,621,54,6,38931,2026-03-06T10:40:59Z,2026-10-29T10:11:24Z,GNU General Public License v3.0
+react/react-native,C++,126817,25426,1313,992110,2015-01-09T18:10:16Z,2026-10-29T10:08:00Z,MIT License
+ambroise-leclerc/WebFront,C++,45,9,12,51813,2019-02-19T12:06:05Z,2026-10-29T10:06:14Z,Other
+animatek/Animatek-NME,C++,66,17,13,12502,2026-02-23T13:18:59Z,2026-10-29T10:06:16Z,GNU General Public License v3.0
+duckdb/duckdb,C++,42681,4092,1100,566493,2018-06-26T15:04:45Z,2026-10-29T10:10:21Z,MIT License
+aufkrawall/green-curve,C++,72,2,3,13346,2026-03-29T17:38:23Z,2026-10-29T10:06:14Z,MIT License
+CNES/pangeo-pyinterp,C++,141,18,2,11384,2019-06-27T08:37:37Z,2026-10-29T10:06:12Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+RenderKit/embree,C++,2774,438,79,277857,2012-11-30T21:33:29Z,2026-10-29T10:06:03Z,Apache License 2.0
+open-astro/AlpacaBridge,C++,15,11,79,135431,2026-01-04T00:08:11Z,2026-10-29T10:06:04Z,GNU Affero General Public License v3.0
+cubk1/b-launcher,C++,28,2,0,3791,2026-10-28T03:09:55Z,2026-10-29T10:05:57Z,MIT License
+code-with-amitk/Code-examples,C++,47,25,4,40307,2018-06-28T04:35:50Z,2026-10-29T10:05:48Z,
+acklin83/Rea-Sixty,C++,10,3,1,116419,2026-04-19T17:40:47Z,2026-10-29T10:05:35Z,Other
+kvcache-ai/Mooncake,C++,6917,1397,869,65411,2024-06-25T05:21:05Z,2026-10-29T10:05:33Z,Apache License 2.0
+ledlaux/vija-pico-synth,C++,41,8,0,371,2026-02-02T13:59:12Z,2026-10-29T10:05:30Z,GNU General Public License v3.0
+BenBerke/Tilky-Engine,C++,21,5,0,49581,2026-04-09T21:38:26Z,2026-10-29T10:05:25Z,Apache License 2.0
+nace-ai/kapitsa,C++,546,81,48,74939,2026-10-16T00:41:59Z,2026-10-29T10:05:18Z,Apache License 2.0
+llvm/circt,C++,2269,544,1222,74440,2020-03-05T04:57:42Z,2026-10-29T10:05:22Z,Other
+defold/defold,C++,6429,467,901,3149068,2012-05-13T16:03:44Z,2026-10-29T10:05:16Z,Other
+xristosstarnetgames439-del/HuiwenMCP,C++,235,42,0,2099,2026-10-08T07:24:18Z,2026-10-29T10:05:11Z,Other
+auscaster/icey,C++,1369,354,5,40785,2012-02-23T11:55:51Z,2026-10-29T10:04:41Z,GNU Lesser General Public License v2.1
+pibblokto/vesperis,C++,15,1,0,30048,2026-09-28T12:11:36Z,2026-10-29T10:04:45Z,MIT License
+thierbig/iwd2r,C++,23,1,2,21290,2026-10-12T17:40:43Z,2026-10-29T10:04:32Z,Other
+CHMOSE023/MiniCAD,C++,36,4,3,36423,2026-03-11T02:33:11Z,2026-10-29T10:04:34Z,MIT License
+Duet3D/RRFLibraries,C++,10,42,0,506,2018-09-04T11:03:01Z,2026-10-29T10:04:23Z,GNU General Public License v3.0
+horriblename/hyprgrass,C++,603,43,15,1162,2023-03-08T16:07:29Z,2026-10-29T10:04:03Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+KDE/krita,C++,10661,896,0,11087940,2015-10-09T19:24:19Z,2026-10-29T10:04:02Z,GNU General Public License v3.0
+Naragorn/OBVR,C++,17,2,0,35527,2026-09-05T08:54:47Z,2026-10-29T10:03:51Z,GNU General Public License v3.0
+hitchopen/HOPE,C++,51,17,3,310561,2026-03-25T15:25:30Z,2026-10-29T10:03:51Z,Apache License 2.0
+exoteric33/ps2-native-recomp,C++,16,1,3,625,2026-10-28T17:55:58Z,2026-10-29T10:03:38Z,MIT License
+argotorg/solidity,C++,25762,6176,849,87652,2015-08-17T12:27:26Z,2026-10-29T10:12:21Z,GNU General Public License v3.0
+gnutools/gcc,C++,11,3,0,3065482,2026-03-11T13:44:22Z,2026-10-29T10:02:54Z,GNU General Public License v2.0
+LibreOffice/core,C++,4579,992,1,6938493,2013-10-31T15:46:52Z,2026-10-29T10:03:01Z,GNU General Public License v3.0
+Aeka0/Overlord,C++,210,15,93,85827,2026-10-05T06:48:54Z,2026-10-29T10:02:41Z,GNU General Public License v3.0
+daisytuner/docc,C++,28,4,19,15375,2025-03-13T01:07:26Z,2026-10-29T10:02:34Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+magnopus-opensource/connected-spaces-platform,C++,107,15,4,171832,2023-06-12T15:36:25Z,2026-10-29T10:02:10Z,Apache License 2.0
+musescore/MuseScore,C++,15320,3373,4386,1335376,2012-05-26T12:46:33Z,2026-10-29T10:02:11Z,Other
+ipsilon/evmone,C++,981,340,182,11854,2018-12-05T16:37:26Z,2026-10-29T10:01:57Z,Apache License 2.0
+ModderMule/emule-qt,C++,50,4,11,89644,2026-03-05T08:44:31Z,2026-10-29T10:01:58Z,GNU General Public License v2.0
+grame-cncm/faust,C++,3196,433,248,410207,2016-11-05T13:09:11Z,2026-10-29T10:01:51Z,Other
+Thor110/AlienTrilogyResurrection,C++,19,0,0,102662,2025-06-22T04:56:59Z,2026-10-29T10:01:34Z,Other
+ydb-platform/ydb,C++,4781,831,5228,2699284,2022-02-07T14:52:36Z,2026-10-29T10:01:35Z,Apache License 2.0
+fair-acc/gnuradio4,C++,115,39,22,13983,2022-12-14T16:52:34Z,2026-10-29T10:01:20Z,GNU Lesser General Public License v3.0
+NGSolve/ngsolve,C++,589,103,25,74813,2017-07-18T08:47:19Z,2026-10-29T10:01:14Z,GNU Lesser General Public License v2.1
+eclipse-score/communication,C++,63,105,234,21431,2025-03-05T14:47:37Z,2026-10-29T10:00:52Z,Apache License 2.0
+apytypes/apytypes,C++,46,4,88,88322,2024-01-17T15:02:12Z,2026-10-29T10:00:26Z,MIT License
+LensPlaysGames/LensorOS,C++,95,13,0,7349,2022-01-16T09:21:46Z,2026-10-29T10:00:22Z,Other
+dsx-ai-factory/model-streamer,C++,400,66,35,7367,2024-07-28T13:29:46Z,2026-10-29T09:59:57Z,Apache License 2.0
+Algorithmiq/monoprop,C++,54,2,40,29657,2026-06-27T12:30:06Z,2026-10-29T09:59:55Z,Apache License 2.0
+vicLeva/tuna,C++,19,3,1,1768,2026-03-25T15:44:03Z,2026-10-29T09:59:47Z,GNU General Public License v3.0
+apre-group/checkmate,C++,11,2,4,4515,2022-08-18T10:01:35Z,2026-10-29T09:59:37Z,MIT License
+lynx-family/lynx,C++,15224,564,1316,89039,2025-03-04T07:41:43Z,2026-10-29T10:01:30Z,Apache License 2.0
+omega-gg/Sky,C++,31,6,2,12700,2016-02-25T21:51:49Z,2026-10-29T09:59:18Z,Other
+mongodb/mongo,C++,28662,5883,37,1441258,2009-01-15T16:15:18Z,2026-10-29T09:59:18Z,Other
+psi29a/d2decomped,C++,22,7,14,55842,2026-09-26T11:41:18Z,2026-10-29T10:09:12Z,GNU General Public License v3.0
+CachyOS/New-Cli-Installer,C++,154,14,25,14272,2021-11-25T14:05:34Z,2026-10-29T09:59:06Z,GNU General Public License v3.0
+root-project/root,C++,3333,1594,660,1628968,2013-06-27T10:46:59Z,2026-10-29T09:59:00Z,Other
+FlashGPU-Sim/FlashGPU-Sim,C++,50,8,4,58497,2025-12-08T10:29:12Z,2026-10-29T09:58:53Z,Other
+OpenArkStudio/ark,C++,446,114,2,25487,2016-08-18T03:13:01Z,2026-10-29T09:58:32Z,Apache License 2.0
+DionysiosB/LeetCode,C++,10,0,0,2780,2015-12-27T16:51:26Z,2026-10-29T09:58:31Z,MIT License
+fuqi-jia/Xolver,C++,29,1,1,12563,2026-05-09T15:49:10Z,2026-10-29T09:58:23Z,Apache License 2.0
+ggml-org/llama.cpp,C++,132718,24919,2573,466105,2023-03-10T18:58:00Z,2026-10-29T10:11:42Z,MIT License
+mirkobrombin/raven,C++,528,12,9,22473,2026-10-24T17:13:42Z,2026-10-29T09:58:15Z,Other
+openxla/xla,C++,4622,990,1503,442584,2022-08-09T15:30:01Z,2026-10-29T09:57:50Z,Apache License 2.0
+eloqdata/tx_service,C++,11,12,64,14137,2025-03-02T11:32:11Z,2026-10-29T09:57:47Z,Other
+kekzl/imp,C++,124,5,0,65494,2026-02-23T01:02:56Z,2026-10-29T09:57:42Z,MIT License
+elastic/elastic-package,Go,73,142,235,41799,2020-06-05T11:20:18Z,2026-10-29T10:13:04Z,Other
+TykTechnologies/ai-studio,Go,10,6,33,373828,2024-09-04T22:25:16Z,2026-10-29T10:12:58Z,GNU Affero General Public License v3.0
+kubeshop/testkube,Go,1676,180,55,573003,2021-07-01T07:47:49Z,2026-10-29T10:12:55Z,Other
+claymore666/docker-net-dhcp,Go,15,2,19,17233,2026-05-02T12:19:50Z,2026-10-29T10:12:43Z,GNU General Public License v3.0
+daemonless/fjord,Go,13,3,0,2844,2026-09-13T16:37:33Z,2026-10-29T10:12:41Z,"BSD 2-Clause ""Simplified"" License"
+egoist/kero,Go,1271,118,31,16912,2026-07-18T09:31:32Z,2026-10-29T10:12:38Z,MIT License
+crossplane-contrib/xprin,Go,47,8,13,1443,2025-11-06T22:24:53Z,2026-10-29T10:12:39Z,Apache License 2.0
+lyricat/inua,Go,88,4,1,16461,2026-10-11T11:03:29Z,2026-10-29T10:12:33Z,Apache License 2.0
+eyupio/zoomies,Go,88,47,0,451332,2026-09-04T10:25:01Z,2026-10-29T10:12:25Z,GNU Affero General Public License v3.0
+redhat-appstudio/infra-deployments,Go,59,356,133,22497,2021-09-28T13:19:51Z,2026-10-29T10:12:21Z,Apache License 2.0
+jdx/jactionlint,Go,296,4,2,11591,2026-10-05T00:42:21Z,2026-10-29T10:12:19Z,MIT License
+PostHog/chschema,Go,19,2,11,1840,2025-09-29T17:26:30Z,2026-10-29T10:12:19Z,MIT License
+alexei-led/pumba,Go,3180,221,9,25347,2016-03-22T14:20:27Z,2026-10-29T10:11:53Z,Apache License 2.0
+RuoJi6/ARTEX,Go,830,526,11,9417,2026-10-09T00:56:36Z,2026-10-29T10:11:54Z,GNU Affero General Public License v3.0
+rcourtman/Pulse,Go,6977,287,90,374010,2025-02-14T15:36:13Z,2026-10-29T10:11:47Z,MIT License
+johanix/tdns,Go,11,5,205,22773,2024-03-06T17:59:48Z,2026-10-29T10:11:49Z,"BSD 2-Clause ""Simplified"" License"
+grafana/pyroscope,Go,11712,828,419,254690,2020-12-31T05:47:19Z,2026-10-29T10:11:49Z,GNU Affero General Public License v3.0
+pkimetal/pkimetal,Go,135,21,3,3044,2023-11-17T11:12:10Z,2026-10-29T10:11:35Z,GNU General Public License v3.0
+bex-co/bex,Go,577,65,11,111532,2024-04-30T01:49:56Z,2026-10-29T10:11:35Z,Apache License 2.0
+Dockmesh/dockmesh,Go,16,2,21,17284,2026-04-19T15:07:45Z,2026-10-29T10:11:33Z,Other
+akopichin/afm,Go,25,0,0,125048,2026-05-19T06:13:48Z,2026-10-29T10:11:34Z,MIT License
+github/gh-aw,Go,5513,606,385,3402482,2025-08-12T17:40:41Z,2026-10-29T10:11:27Z,MIT License
+leapmux/leapmux,Go,116,11,13,68319,2026-02-06T06:07:09Z,2026-10-29T10:11:23Z,Other
+reearth/reearth-cms,Go,23,14,54,79611,2022-02-21T01:32:43Z,2026-10-29T10:11:20Z,Apache License 2.0
+erigontech/erigon,Go,3593,1569,759,820612,2019-05-27T12:12:40Z,2026-10-29T10:11:21Z,GNU Lesser General Public License v3.0
+smart-mcp-proxy/mcpproxy-go,Go,401,67,34,269972,2025-06-18T03:59:17Z,2026-10-29T10:11:15Z,MIT License
+IBM/project-ai-services,Go,59,55,51,32802,2025-11-10T10:14:43Z,2026-10-29T10:11:05Z,Apache License 2.0
+simple-container-com/api,Go,285,3,60,11749,2023-11-06T14:03:39Z,2026-10-29T10:11:05Z,MIT License
+HivenetOSS/hivenet_router,Go,16,2,6,18311,2026-08-05T07:48:52Z,2026-10-29T10:10:50Z,Apache License 2.0
+openchoreo/openchoreo,Go,1720,271,297,44348,2025-02-28T14:34:35Z,2026-10-29T10:10:27Z,Apache License 2.0
+encoredev/encore,Go,12655,653,143,18221,2021-02-17T16:33:24Z,2026-10-29T10:10:31Z,Mozilla Public License 2.0
+hivecommons/hive,Go,77,47,40,243706,2026-04-17T15:00:19Z,2026-10-29T10:10:22Z,Apache License 2.0
+reliant-labs/reliant,Go,75,9,28,142430,2026-01-15T02:23:57Z,2026-10-29T10:10:18Z,Other
+tristenlammi/Arrmada,Go,415,24,21,18980,2026-02-08T01:59:41Z,2026-10-29T10:10:14Z,MIT License
+hacdias/eagle,Go,29,1,2,3268,2020-10-07T17:33:14Z,2026-10-29T10:09:49Z,MIT License
+pulumi/pulumi-kubernetes-ingress-nginx,Go,12,10,8,2623,2021-10-16T22:36:30Z,2026-10-29T10:09:38Z,Apache License 2.0
+egoist/mygo,Go,3626,201,88,75267,2026-09-26T15:21:37Z,2026-10-29T10:09:34Z,MIT License
+hugalafutro/model-hotel,Go,57,3,0,147832,2026-04-19T11:23:46Z,2026-10-29T10:09:32Z,MIT License
+osmosis-labs/sqs,Go,25,19,1,140794,2023-10-17T19:09:19Z,2026-10-29T10:09:29Z,
+CosmWasm/wasmvm,Go,208,142,36,1129336,2019-10-11T13:43:04Z,2026-10-29T10:09:24Z,Apache License 2.0
+xiaofang142/hivemtk,Go,145,42,7,142312,2026-07-21T08:35:08Z,2026-10-29T10:09:11Z,GNU Affero General Public License v3.0
+mickey/tailhome,Go,24,1,1,2612,2026-10-14T14:14:04Z,2026-10-29T10:09:10Z,MIT License
+utkuozdemir/nvidia_gpu_exporter,Go,1575,156,13,12095,2021-06-08T22:42:30Z,2026-10-29T10:09:03Z,MIT License
+openshift/cluster-monitoring-operator,Go,266,414,38,128189,2018-04-11T20:36:53Z,2026-10-29T10:08:55Z,Apache License 2.0
+Xe/x,Go,337,16,13,53498,2015-02-12T05:22:11Z,2026-10-29T10:08:41Z,Creative Commons Zero v1.0 Universal
+MUKE-coder/grit,Go,149,20,40,74850,2026-02-11T03:12:03Z,2026-10-29T10:08:34Z,MIT License
+piraeusdatastore/linstor-csi,Go,136,35,36,7150,2018-12-10T23:47:59Z,2026-10-29T10:08:31Z,Apache License 2.0
+multigres/multigres-operator,Go,273,37,24,6802,2025-09-25T10:03:51Z,2026-10-29T10:08:29Z,Apache License 2.0
+Hello-CTF/NexTerm,Go,64,12,0,51984,2026-09-27T18:36:06Z,2026-10-29T10:08:29Z,MIT License
+lkarlslund/Adalanche,Go,2216,201,1,86617,2020-10-07T10:07:22Z,2026-10-29T10:08:25Z,GNU Affero General Public License v3.0
+photoprism/photoprism,Go,40372,2335,473,419303,2018-01-27T12:00:15Z,2026-10-29T10:08:17Z,Other
+coipond/coi,Go,762,65,35,10454,2026-01-07T09:47:42Z,2026-10-29T10:08:10Z,MIT License
+t8y2/motty,Go,195,25,27,5577,2026-10-22T09:56:24Z,2026-10-29T10:08:06Z,Apache License 2.0
+openbkn-ai/bkn-foundry,Go,1012,96,186,228843,2026-05-26T08:49:49Z,2026-10-29T10:07:57Z,Other
+dfns/terraform-provider-tunnel,Go,18,7,6,6758,2024-10-24T15:33:03Z,2026-10-29T10:07:48Z,Mozilla Public License 2.0
+nginx/nginx-plus-go-client,Go,49,28,5,909,2018-04-18T11:41:54Z,2026-10-29T10:07:44Z,Apache License 2.0
+aristanetworks/cloudvision-go,Go,13,1,2,10502,2019-01-14T23:01:38Z,2026-10-29T10:07:44Z,Apache License 2.0
+yetone/magpie,Go,25095,2041,2269,205496,2026-09-23T16:22:35Z,2026-10-29T10:11:58Z,MIT License
+complytime/complyctl,Go,39,23,27,24241,2024-11-08T13:14:24Z,2026-10-29T10:07:40Z,Apache License 2.0
+lerd-env/lerd,Go,1462,92,15,112301,2026-03-17T10:18:54Z,2026-10-29T10:07:38Z,MIT License
+ai-dynamo/snapshot,Go,76,38,166,44716,2026-07-13T16:05:40Z,2026-10-29T10:07:35Z,Apache License 2.0
+bucketeer-io/bucketeer,Go,485,42,50,93671,2022-09-28T06:17:37Z,2026-10-29T10:07:30Z,Apache License 2.0
+ajitpratap0/GoSQLX,Go,120,15,11,25345,2025-02-17T06:47:21Z,2026-10-29T10:07:31Z,Apache License 2.0
+kontext-security/kontext,Go,234,8,25,417261,2026-04-05T09:12:57Z,2026-10-29T10:07:26Z,MIT License
+aaydin-tr/divisor,Go,76,4,10,7922,2022-10-28T19:12:25Z,2026-10-29T10:07:28Z,MIT License
+coder/coder,Go,17219,1641,1174,644462,2021-12-22T06:08:52Z,2026-10-29T10:07:17Z,GNU Affero General Public License v3.0
+gx-org/gx,Go,11,5,0,4340,2024-10-29T11:26:29Z,2026-10-29T10:07:00Z,Apache License 2.0
+elastic/beats,Go,12649,5013,1098,542416,2014-02-05T19:01:02Z,2026-10-29T10:07:00Z,Other
+axem-solutions/shaide,Go,42,1,3,6629,2026-08-13T16:33:50Z,2026-10-29T10:06:46Z,Apache License 2.0
+enowx/enowx,Go,15,9,0,13188,2026-10-22T02:58:01Z,2026-10-29T10:06:40Z,MIT License
+markel1974/godoom,Go,25,0,0,50449,2022-08-03T17:25:18Z,2026-10-29T10:06:36Z,MIT License
+qlik-oss/enigma-go,Go,40,14,3,1914,2018-03-21T13:01:22Z,2026-10-29T10:06:33Z,MIT License
+trustyai-explainability/trustyai-service-operator,Go,15,73,116,4782,2023-05-20T08:47:32Z,2026-10-29T10:06:27Z,Apache License 2.0
+aliyun/terraform-provider-alicloud,Go,662,618,1145,126838,2017-06-05T20:54:04Z,2026-10-29T10:06:23Z,Mozilla Public License 2.0
+bytebase/omni,Go,17,8,8,22904,2026-03-13T02:59:55Z,2026-10-29T10:06:14Z,MIT License
+DeanZFC/sub2api-custom,Go,19,1,0,133101,2026-08-14T02:30:17Z,2026-10-29T10:06:09Z,GNU Lesser General Public License v3.0
+ucloud/ucloud-sdk-go,Go,86,43,6,4736,2015-09-15T07:24:41Z,2026-10-29T10:06:08Z,Apache License 2.0
+Songmu/slidown,Go,34,1,1,8450,2026-06-17T17:41:36Z,2026-10-29T10:05:57Z,MIT License
+darkace1998/Dreadnought-Revival-project,Go,12,2,11,44434,2026-05-21T17:58:12Z,2026-10-29T10:05:43Z,Apache License 2.0
+SpekoAI/gateway,Go,10,5,8,3225,2026-08-05T15:32:32Z,2026-10-29T10:05:22Z,MIT License
+Lynricsy/OneSSH,Go,157,25,1,9991,2026-08-08T04:33:17Z,2026-10-29T10:05:18Z,GNU General Public License v3.0
+caigee-cmd/cli2api,Go,283,50,11,43498,2026-08-21T10:10:18Z,2026-10-29T10:05:09Z,MIT License
+neo4j/neo4j-go-driver,Go,555,74,16,9559,2018-03-07T18:15:06Z,2026-10-29T10:04:58Z,Apache License 2.0
+askie/grix,Go,156,6,2,71448,2026-06-08T11:41:17Z,2026-10-29T10:04:49Z,Other
+danp/nspoweroutages,Go,12,1,0,250010,2020-12-26T23:09:45Z,2026-10-29T10:04:48Z,
+cri-o/cri-o,Go,5685,1220,145,207360,2016-09-09T19:56:31Z,2026-10-29T10:04:51Z,Apache License 2.0
+containers/nri-plugins,Go,118,45,34,22638,2023-03-15T17:07:53Z,2026-10-29T10:04:43Z,Apache License 2.0
+venslabs/vens,Go,19,15,44,5669,2025-11-05T15:34:31Z,2026-10-29T10:04:41Z,Apache License 2.0
+pulumi/pulumi,Go,25829,1469,2497,398317,2016-10-31T21:02:47Z,2026-10-29T10:04:46Z,Apache License 2.0
+pydio/cells,Go,2255,233,58,1192466,2018-03-24T13:52:10Z,2026-10-29T10:04:27Z,GNU Affero General Public License v3.0
+Chemaclass/agnostic-ai,Go,25,5,6,25044,2026-05-03T18:47:55Z,2026-10-29T10:04:16Z,MIT License
+juanfont/headscale,Go,45162,2622,152,63403,2020-06-21T09:21:05Z,2026-10-29T10:04:32Z,"BSD 3-Clause ""New"" or ""Revised"" License"
+NOVA-X-PANEL/NOVA-X-PANEL,Go,28,5,8,164616,2026-09-20T03:29:07Z,2026-10-29T10:04:05Z,GNU General Public License v3.0
+grafana/loki,Go,29091,4162,1281,571451,2018-04-16T09:22:48Z,2026-10-29T10:04:05Z,GNU Affero General Public License v3.0
+scaleway/terraform-provider-scaleway,Go,264,157,194,64160,2017-06-05T20:53:58Z,2026-10-29T10:04:03Z,Mozilla Public License 2.0
+elastic/opentelemetry-collector-components,Go,22,67,77,32593,2024-05-14T11:21:00Z,2026-10-29T10:04:01Z,Apache License 2.0
+compliance-framework/api,Go,12,4,2,50101,2023-08-21T14:02:20Z,2026-10-29T10:03:51Z,GNU Affero General Public License v3.0
+ArmadilloBrillo/cyber-tui,Go,32,2,0,2932,2026-03-29T09:29:21Z,2026-10-29T10:03:48Z,MIT License
+yurika0211/lucky-agent,Go,17,3,20,21144,2026-04-19T19:58:48Z,2026-10-29T10:03:46Z,MIT License
+bjarneo/shoulder,Go,62,4,0,4682,2026-10-27T20:58:35Z,2026-10-29T10:03:42Z,MIT License
+moq-dev/moq,Rust,1585,270,163,107000,2022-06-29T16:16:37Z,2026-10-29T10:13:07Z,Apache License 2.0
+celox-sim/celox,Rust,10,1,114,594725,2026-02-28T11:52:19Z,2026-10-29T10:13:05Z,Apache License 2.0
+BeautyyuYanli/codex-apply-patch,Rust,57,2,0,1555,2026-07-27T20:18:18Z,2026-10-29T10:13:03Z,Apache License 2.0
+tempoxyz/tempo,Rust,1040,377,195,209973,2025-06-02T19:55:49Z,2026-10-29T10:12:48Z,Apache License 2.0
+jdx/hk,Rust,1290,104,1,24421,2025-01-26T12:26:48Z,2026-10-29T10:12:45Z,MIT License
+contextstream/mcp-server,Rust,44,12,17,66058,2025-12-12T18:12:00Z,2026-10-29T10:12:43Z,MIT License
+infino-ai/infino,Rust,140,26,98,55831,2026-05-19T10:00:40Z,2026-10-29T10:12:29Z,Apache License 2.0
+jac3km4/redscript,Rust,537,50,26,2547,2020-12-30T03:28:01Z,2026-10-29T10:12:29Z,MIT License
+tangency-labs/solidcore,Rust,253,101,201,91358,2026-10-12T18:35:50Z,2026-10-29T10:12:26Z,Apache License 2.0
+M-Igashi/mp3rgain,Rust,129,8,15,390791,2026-01-10T16:23:28Z,2026-10-29T10:12:20Z,MIT License
+gvergnaud/bise,Rust,29,7,4,111739,2026-09-25T15:07:25Z,2026-10-29T10:12:18Z,Apache License 2.0
+longbridge/gpui-kit,Rust,18754,1162,132,39566,2024-06-13T13:45:39Z,2026-10-29T10:12:18Z,Other
+datafusion-contrib/datafusion-table-providers,Rust,214,92,13,2857,2024-04-17T17:16:31Z,2026-10-29T10:12:14Z,Apache License 2.0
+Kinlock-Org/kinlock-contracts,Rust,17,8,10,727,2026-10-05T12:47:49Z,2026-10-29T10:12:14Z,Apache License 2.0
+ClickHouse/wal-rus,Rust,142,6,2,1162,2026-06-01T14:22:59Z,2026-10-29T10:12:07Z,Other
+uthree/auris-studio,Rust,20,2,2,21936,2026-08-02T03:30:01Z,2026-10-29T10:12:01Z,Apache License 2.0
+Mesh-LLM/mesh-llm,Rust,3618,468,209,160309,2026-02-11T03:18:27Z,2026-10-29T10:12:00Z,Apache License 2.0
+tokuhirom/mutsu,Rust,30,1,189,184180,2026-02-05T10:53:07Z,2026-10-29T10:11:52Z,Artistic License 2.0
+hahnlee/aim,Rust,20,0,511,33900,2026-08-16T09:23:00Z,2026-10-29T10:11:42Z,Apache License 2.0
+lalalune/pumpfun-source,Rust,207,116,14,13342596,2026-10-24T23:37:50Z,2026-10-29T09:55:01Z,MIT License
+smallcat2333/magpie-hud,Rust,12,1,0,3719,2026-10-19T13:00:24Z,2026-10-29T10:11:36Z,
+agentic-os-org/ANOLISA,Rust,644,178,1486,108753,2026-03-30T06:33:06Z,2026-10-29T10:11:36Z,Apache License 2.0
+maddada/Ghostex,Rust,1470,114,7,434756,2026-04-27T01:44:16Z,2026-10-29T10:11:34Z,MIT License
+jdx/communique,Rust,127,7,1,1775,2026-02-11T16:21:17Z,2026-10-29T10:11:33Z,MIT License
+simoncozens/babelfont-rs,Rust,19,8,19,13472,2021-07-05T20:30:10Z,2026-10-29T10:11:31Z,Apache License 2.0
+futureboard/futureboard-studio,Rust,123,12,1,70529,2026-05-12T16:50:55Z,2026-10-29T10:11:10Z,MIT License
+Edward-lyz/codex-mixin,Rust,109,25,0,31368,2026-07-09T11:00:00Z,2026-10-29T10:11:09Z,Other
+verum-lang/verum,Rust,15,3,1,100872,2025-11-10T20:41:04Z,2026-10-29T10:11:06Z,MIT License
+CrunchyData/pg_parquet,Rust,695,40,14,1257,2024-09-04T21:11:44Z,2026-10-29T10:11:07Z,Other
+FormikaDesk/rada-fm,Rust,11,1,0,92186,2026-10-09T07:07:00Z,2026-10-29T10:11:04Z,MIT License
+karalang/kara,Rust,45,0,1,273257,2026-05-04T11:31:34Z,2026-10-29T10:11:01Z,Apache License 2.0
+lancedb/lancedb,Rust,11807,1142,636,64803,2023-02-28T01:15:17Z,2026-10-29T10:10:59Z,Apache License 2.0
+cachix/agentaps,Rust,81,6,3,4131,2026-09-24T17:55:34Z,2026-10-29T10:10:54Z,Apache License 2.0
+HexRaysSA/rax,Rust,237,11,18,312806,2025-12-19T13:22:53Z,2026-10-29T10:10:49Z,MIT License
+getdroppen/droppen,Rust,22,4,32,23091,2026-10-17T03:27:13Z,2026-10-29T10:10:38Z,GNU Affero General Public License v3.0
+FormalSnake/dotfiles,Rust,17,1,0,281105,2024-02-02T10:16:21Z,2026-10-29T10:10:34Z,
+topaxi/OpenAntiGrav,Rust,30,0,4,58375,2026-07-26T20:56:02Z,2026-10-29T10:10:34Z,Apache License 2.0
+BrokkAi/mjolnir,Rust,107,10,112,141271,2026-05-18T11:35:20Z,2026-10-29T10:10:26Z,GNU General Public License v3.0
+Ar3ss12/nanoclick,Rust,10,0,0,6656,2026-09-13T16:48:22Z,2026-10-29T10:10:24Z,Other
+xberg-io/liter-llm,Rust,263,24,0,1113461,2026-03-25T07:30:37Z,2026-10-29T10:10:22Z,MIT License
+ArcfluxResearch/dudes,Rust,13,1,5,16578,2026-10-10T06:37:55Z,2026-10-29T10:10:17Z,Apache License 2.0
+orch8-io/engine,Rust,75,5,0,17393,2026-04-14T22:18:01Z,2026-10-29T10:10:21Z,Other
+thedavidweng/OpenKara,Rust,36,2,13,75593,2026-03-13T02:21:39Z,2026-10-29T10:10:11Z,GNU Affero General Public License v3.0
+Nanako0129/shanjie,Rust,40,2,6,41192,2026-10-03T14:42:16Z,2026-10-29T10:10:10Z,Apache License 2.0
+lance-format/lance,Rust,7228,914,1115,112952,2022-07-07T22:29:29Z,2026-10-29T10:10:10Z,Apache License 2.0
+purlis/purlis,Rust,11,2,786,189681,2026-09-17T12:49:42Z,2026-10-29T10:10:07Z,Apache License 2.0
+horizon-rust/horizon,Rust,3963,316,650,215503,2026-10-03T17:08:48Z,2026-10-29T10:09:59Z,MIT License
+eltavine/Duck-ToolBox,Rust,383,62,8,2608,2026-03-30T16:11:10Z,2026-10-29T10:09:59Z,MIT License
+rayfish/rayfish,Rust,767,42,78,126288,2026-06-22T15:28:45Z,2026-10-29T10:09:48Z,Mozilla Public License 2.0
+ston-fi/ton-rs,Rust,174,19,1,3164,2025-04-26T14:48:26Z,2026-10-29T10:09:44Z,Apache License 2.0
+unixwin/niubash,Rust,203,10,20,28178,2026-03-28T14:05:55Z,2026-10-29T10:09:44Z,MIT License
+siphon-project/siphon-sip,Rust,55,8,7,30708,2026-03-07T18:33:32Z,2026-10-29T10:09:33Z,MIT License
+Cosmian/kms,Rust,366,43,92,146312,2023-05-10T18:48:50Z,2026-10-29T10:09:30Z,Other
+ChurrOS-GNU-Linux/ChurrOS,Rust,38,5,9,101143,2026-07-11T15:04:25Z,2026-10-29T10:09:28Z,GNU General Public License v3.0
+Rullst/Rullst,Rust,19,6,1,206162,2026-05-25T01:06:47Z,2026-10-29T10:09:27Z,MIT License
+bmeares/Meerschaum,Rust,154,10,1,28477,2020-07-07T02:36:05Z,2026-10-29T10:09:27Z,Apache License 2.0
+getsentry/relay,Rust,404,135,113,858084,2018-01-16T23:49:43Z,2026-10-29T10:09:25Z,Other
+CognitionAI/devin-outpost-k8s,Rust,16,6,2,347,2026-07-12T19:59:28Z,2026-10-29T10:09:24Z,MIT License
+MystiaFin/suzuha,Rust,59,6,0,252,2026-09-29T08:38:08Z,2026-10-29T10:09:13Z,
+oferchen/rsync,Rust,110,5,21,72759,2025-09-21T14:40:40Z,2026-10-29T10:09:12Z,GNU General Public License v3.0
+ubugeeei-prod/vize,Rust,921,51,144,559604,2025-12-27T08:32:00Z,2026-10-29T10:08:57Z,MIT License
+nautechsystems/nautilus_trader,Rust,31020,4179,154,298844,2018-06-25T06:26:16Z,2026-10-29T10:09:28Z,GNU Lesser General Public License v3.0
+maplibre/martin,Rust,4031,412,35,74044,2017-09-30T10:53:46Z,2026-10-29T10:08:56Z,Apache License 2.0
+chainflip-io/chainflip-backend,Rust,72,31,82,679626,2021-02-22T20:57:34Z,2026-10-29T10:08:46Z,Apache License 2.0
+aya-rs/aya,Rust,4881,482,211,38173,2021-01-20T07:31:17Z,2026-10-29T10:08:45Z,Apache License 2.0
+Qiskit/qiskit-fermions,Rust,27,15,12,116367,2026-01-21T12:53:53Z,2026-10-29T10:08:43Z,Apache License 2.0
+trailofbits/coop,Rust,800,44,53,3022,2026-04-02T10:56:32Z,2026-10-29T10:08:37Z,Apache License 2.0
+sebadob/hiqlite,Rust,516,38,7,7796,2024-07-18T16:12:52Z,2026-10-29T10:08:37Z,Apache License 2.0
+constellation-works/orbit,Rust,18,2,2,256251,2026-03-15T18:23:29Z,2026-10-29T10:08:36Z,MIT License
+lumen-oss/lux,Rust,1007,30,84,7346,2024-01-11T08:11:52Z,2026-10-29T10:08:35Z,GNU Lesser General Public License v3.0
+gsrxyz/rusteron,Rust,64,15,0,68893,2025-04-04T06:53:02Z,2026-10-29T10:08:34Z,Apache License 2.0
+hcipengm/cogneva,Rust,34,33,20,36327,2026-07-26T13:10:31Z,2026-10-29T10:08:25Z,Other
+Blackcat-Informatics/gmeow-ontology,Rust,13,1,63,220868,2026-06-03T22:59:52Z,2026-10-29T10:08:19Z,GNU Affero General Public License v3.0
+NextAgentX/qoder-trae-workbuddy-switch,Rust,252,58,15,42278,2026-09-16T08:10:50Z,2026-10-29T10:08:21Z,Other
+brksfrb/arctic-launcher,Rust,10,1,0,249125,2026-09-25T16:57:02Z,2026-10-29T10:08:19Z,GNU General Public License v3.0
+kd9taw/Nexus,Rust,117,24,66,151195,2026-07-18T02:58:54Z,2026-10-29T10:08:19Z,GNU General Public License v3.0
+storytold/pdfcraft,Rust,18538,7011,2508,69047,2026-09-30T13:39:37Z,2026-10-29T10:12:40Z,Apache License 2.0
+anomalyco/hex,Rust,811,85,7,164264,2026-07-17T23:48:56Z,2026-10-29T10:12:16Z,MIT License
+storytold/wordcraft,Rust,16518,4532,2168,36352,2026-10-07T08:34:24Z,2026-10-29T10:09:19Z,Apache License 2.0
+lseman/baldes,Rust,24,4,0,168375,2024-06-14T11:01:21Z,2026-10-29T10:08:12Z,MIT License
+GCWing/OpenBitFun,Rust,3305,285,125,259737,2026-02-02T09:52:10Z,2026-10-29T10:08:06Z,MIT License
+storytold/cadcraft,Rust,7142,3088,1140,10083,2026-10-07T05:22:31Z,2026-10-29T10:09:23Z,Apache License 2.0
+storytold/lightcraft,Rust,15008,5758,1432,55619,2026-09-30T14:09:27Z,2026-10-29T10:12:16Z,Apache License 2.0
+foundry-rs/foundry,Rust,10740,2697,250,95007,2021-09-08T11:23:11Z,2026-10-29T10:08:00Z,Apache License 2.0
+jularboolean/legejo,Rust,31,1,1,11173,2026-10-05T09:06:04Z,2026-10-29T10:07:45Z,GNU Affero General Public License v3.0
+delmarguillen/euro-office-lite,Rust,51,2,17,1234135,2026-06-21T21:54:14Z,2026-10-29T10:07:46Z,GNU Affero General Public License v3.0
+anza-xyz/solana-sdk,Rust,261,261,56,9404,2025-02-04T12:27:00Z,2026-10-29T10:07:45Z,Apache License 2.0
+SolverForge/solverforge,Rust,85,5,18,10052,2026-01-03T15:57:52Z,2026-10-29T10:07:27Z,Apache License 2.0
+nervosnetwork/fiber,Rust,59,33,109,13878,2024-03-12T03:57:52Z,2026-10-29T10:07:26Z,MIT License
+asterinas/asterinas,Rust,5040,406,372,19209,2022-05-17T18:48:52Z,2026-10-29T10:07:25Z,Mozilla Public License 2.0
+aya-rs/bpf-linker,Rust,302,63,13,2882,2020-11-27T05:50:59Z,2026-10-29T10:07:16Z,Apache License 2.0
+ccheever/exact2,Rust,35,5,43,452557,2026-08-27T11:51:51Z,2026-10-29T10:12:58Z,
+hegeldev/hegel,Rust,14,1,17,19397,2026-10-19T11:46:52Z,2026-10-29T10:12:30Z,MIT License
+empero-org/abacus,Rust,111,13,5,3188,2026-06-22T12:59:40Z,2026-10-29T10:07:12Z,Other
+pnpm/pnpm,Rust,36953,1960,205,294220,2016-01-28T07:40:43Z,2026-10-29T10:07:01Z,MIT License
+praxis-proxy/ai,Rust,38,69,393,23156,2026-06-30T20:28:45Z,2026-10-29T10:07:02Z,Apache License 2.0
+kryptic-sh/infr,Rust,32,6,3,15069,2026-06-26T07:59:46Z,2026-10-29T10:07:01Z,MIT License
+obeli-sk/obelisk,Rust,765,19,2,25947,2024-04-25T16:21:43Z,2026-10-29T10:07:01Z,GNU Affero General Public License v3.0
+meawoppl/agent-portal,Rust,18,4,10,70918,2026-01-08T15:01:37Z,2026-10-29T10:07:01Z,
+cube-js/cube,Rust,21127,2178,1152,529496,2018-09-16T18:58:46Z,2026-10-29T10:06:58Z,Other
